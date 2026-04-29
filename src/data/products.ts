@@ -28,7 +28,7 @@ export const products: Product[] = [
     description:
       "Elegant sterling silver earrings featuring lustrous freshwater pearls. The minimalist design makes them versatile enough for both casual and formal wear. Each pearl is hand-selected for its exceptional luster.",
     images: [
-      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/2697787/pexels-photo-2697787.jpeg?auto=compress&cs=tinysrgb&w=800",
     ],
     badge: "new",
@@ -86,7 +86,7 @@ export const products: Product[] = [
     description:
       "A beautiful bentex choker featuring a floral motif with rose-gold plating. Lightweight and comfortable, this fashion jewelry piece adds a touch of glamour to any outfit. Anti-tarnish coating ensures long-lasting shine.",
     images: [
-      "https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/1458670/pexels-photo-1458670.jpeg?auto=compress&cs=tinysrgb&w=800",
     ],
     badge: "new",
