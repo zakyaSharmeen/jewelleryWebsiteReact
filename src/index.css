@@ -1,30 +1,20 @@
-@import "tailwindcss";
 
-@custom-variant dark (&:where(.dark, .dark *));
+  @import "tailwindcss";
+  @custom-variant dark (&:where(.dark, .dark *));
 
 @layer base {
-  html {
+  html, body {
     scroll-behavior: smooth;
+    -ms-overflow-style: none;   
+    scrollbar-width: none;    
   }
 
   body {
     @apply antialiased;
   }
 
-  ::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-  }
-
-  ::-webkit-scrollbar-track {
-    @apply bg-neutral-100 dark:bg-neutral-800;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    @apply bg-neutral-300 dark:bg-neutral-600 rounded-full;
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-amber-400;
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar {
+    display: none;
   }
 }

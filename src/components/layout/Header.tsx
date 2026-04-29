@@ -58,9 +58,20 @@ export default function Header() {
             <div className="w-8 h-8 rounded-full bg-amber-500 flex items-center justify-center">
               <Gem className="w-4 h-4 text-white" />
             </div>
-            <span className="font-serif text-xl font-semibold tracking-wide text-neutral-900 dark:text-white">
+            {/* <span className="font-serif text-xl font-semibold tracking-wide text-neutral-900 dark:text-white">
               SHERU JEWELLERY STORE
+            </span> */}
+            <span className="font-serif text-sm sm:text-base lg:text-xl font-semibold tracking-wide text-neutral-900 dark:text-white">
+              JEWELLERY STORE
             </span>
+            {/* <span className="font-serif font-semibold tracking-wide text-neutral-900 dark:text-white leading-tight">
+              <span className="block md:hidden text-xs">SHERU</span>
+              <span className="block md:hidden text-xs">JEWELLERY</span>
+              <span className="block md:hidden text-xs">STORE</span>
+              <span className="hidden md:inline text-xl">
+                SHERU JEWELLERY STORE
+              </span>
+            </span> */}
           </Link>
 
           {/* Desktop Nav */}
