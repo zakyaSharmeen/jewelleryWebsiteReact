@@ -22,7 +22,7 @@ const categories = [
   {
     name: "Bentex",
     image:
-      "https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg?auto=compress&cs=tinysrgb&w=800",
+      " https://images.pexels.com/photos/1191531/pexels-photo-1191531.jpeg?auto=compress&cs=tinysrgb&w=600",
     count: products.filter((p) => p.category === "Bentex").length,
   },
 ];
