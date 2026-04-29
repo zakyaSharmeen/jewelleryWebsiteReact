@@ -178,7 +178,7 @@ export const products: Product[] = [
     description:
       "Gorgeous jhumka earrings crafted in bentex with pearl drops and meenakari work. Lightweight and comfortable for all-day wear. A perfect fusion of traditional and contemporary style.",
     images: [
-      "https://images.pexels.com/photos/1454171/pexels-photo-1454171.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1458671/pexels-photo-1458671.jpeg?auto=compress&cs=tinysrgb&w=800",
       "https://images.pexels.com/photos/2697787/pexels-photo-2697787.jpeg?auto=compress&cs=tinysrgb&w=800",
     ],
     badge: "new",
