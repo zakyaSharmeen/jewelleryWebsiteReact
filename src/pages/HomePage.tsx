@@ -81,7 +81,7 @@ export default function HomePage() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url(https://images.pexels.com/photos/10975780/pexels-photo-10975780.jpeg?auto=compress&cs=tinysrgb&w=1600)",
+              "url(https://images.pexels.com/photos/1458867/pexels-photo-1458867.jpeg?auto=compress&cs=tinysrgb&w=1600)",
           }}>
           <div className="absolute inset-0 bg-gradient-to-r from-neutral-950/80 via-neutral-950/50 to-transparent" />
         </div>
